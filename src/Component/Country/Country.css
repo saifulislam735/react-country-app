@@ -1,0 +1,14 @@
+.country{
+    background-color: aquamarine;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+}
+.country p{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(80, 83, 86);
+}
+img{
+    width: 200px;
+}
